@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\learngit
+//.git是隐藏的，Desktop是桌面。
